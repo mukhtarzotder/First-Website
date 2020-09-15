@@ -13,15 +13,34 @@ hr {
 h1{
   color: teal;
 }
-h3 {
+h3:harve {
   color: #66bfbf;
 }
 textarea{
   background-color: lightblue;
 }
-.ddfghgfdfzxcgv{
-  background-color: rgb(73, 36, 36);
-  color: aquamarine;
-  
-
+.h1-name:hover{
+ font-size: 32px;
+ font-style: oblique;
 }
+p{
+  color: #079292;
+}
+h3{
+  color: #079292;
+}
+thead{
+  color: #180c4d;
+  font-size: 20px;
+  background-color: #079292;
+  border-color: #180c4d;
+}
+.body{
+  background-color: #92cece;
+}
+#head:hover{
+ font-size: 30px;
+ font-style: italic;
+}
+
+
